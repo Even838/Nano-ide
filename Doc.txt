@@ -1,0 +1,4 @@
+You can use this 
+code as a visual base for 
+a more complete IDE
+
